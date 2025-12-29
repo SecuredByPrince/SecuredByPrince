@@ -1,56 +1,64 @@
 # 👋 Welcome to **SecuredByPrince**
 
-## 🛡️ Securing Enterprises with Intelligence and Integrity
+## 🛡️ Cloud & AI-Driven Security, Simplified
 
-I'm **Prince Richard Osaro**, a Cybersecurity & SOC Analyst focused on **Microsoft Security, Cloud Security, Threat Detection Engineering, and AI-driven Security Automation**.
+Hi! I’m **Prince Richard Osaro**, a **Junior Cybersecurity & AI Researcher (Volunteer) at IACAIP** and an **Aspiring Cloud Security Engineer**.  
 
-This GitHub is where I document my journey, showcase hands-on labs, and build real-world security engineering projects.
-
----
-
-## 🔥 **What I Do**
-
-* **SOC Operations & Incident Response**
-* **Microsoft 365 & Defender XDR Security Engineering**
-* **Cloud Security (Azure · Google Cloud)**
-* **Threat Hunting, Detection Rules & Automation**
-* **Python for Security Automation**
-* **Enterprise Lab Design & Architecture**
+I focus on **administering and securing Azure & Microsoft 365 environments**, building **cloud-native detection workflows**, and exploring **AI security and responsible AI practices**. My mission is to make cloud environments **functional, resilient, and secure by design**, while sharing knowledge and practical insights with the cybersecurity community.
 
 ---
 
-## 🚀 **Featured Projects**
+## 🔥 What I Do
 
-Coming soon — new security engineering labs, automation tools, and cloud security projects will be added here.
-
----
-
-## 🧠 **Skills & Tools**
-
-* **Microsoft Defender XDR · Sentinel · Entra ID (IAM)**
-* **Azure Security Center · Azure Monitor**
-* **Python · PowerShell · KQL**
-* **Splunk · Sysmon · Wazuh**
-* **OWASP ZAP · Burp Suite · Nmap**
-* **Cloud IAM · Detection Engineering · SOC Automation**
+* Cloud Security Administration & Hardening (Azure & Microsoft 365)  
+* Identity, Endpoint, Network & Data Security  
+* Threat Detection Engineering & SOC Operations  
+* AI Security Research & Adversarial Threat Awareness  
+* Security Automation with Python & PowerShell  
+* Enterprise Lab Design & Hands-on Security Projects  
 
 ---
 
-## 📚 **Currently Learning**
+## 🚀 Featured Projects
 
-* Microsoft Security (SC-200 → SC-300 → SC-100)
-* Azure Administrator (AZ-104)
-* Azure Security Engineer (AZ-500)
-* DevSecOps Foundations
-
----
-
-## 📌 **Connect With Me**
-
-* **YouTube:** SecuredByPrince
-* **LinkedIn:** linkedin.com/in/prince-richard-o/
-* **X (Twitter):** @SecuredByPrince
+* **Cloud Security Use Cases** – Microsoft Sentinel & Azure Monitor detection rules with SOC-style monitoring
+  
+*More projects coming soon… stay tuned for new labs, cloud monitoring tools, and AI-driven automation.*
 
 ---
 
-### 💡 *Explore → Learn → Secure*
+## 🧠 Skills & Tools
+
+* **Cloud Security & Administration:** Azure, Microsoft 365, Entra ID, Defender XDR, Azure Monitor, Sentinel  
+* **Programming & Automation:** Python, PowerShell, KQL  
+* **SIEM & Monitoring:** Splunk, Sysmon, Wazuh  
+* **Pentesting & Vulnerability Assessment:** OWASP ZAP, Burp Suite, Nmap  
+* **AI & Security Research:** Secure AI deployments, adversarial threat awareness, responsible AI  
+
+---
+
+## 📚 Currently Learning
+
+* Microsoft Security Certifications: SC-200 → SC-300 → SC-100  
+* Azure Administrator (AZ-104) & Security Engineer (AZ-500)  
+* Cloud Security Automation & DevSecOps Foundations  
+* AI Security, Adversarial Threat Modeling, & Secure Cloud AI Deployments  
+
+---
+
+## 🎓 Community & Learning Initiatives
+
+* Creator of **[SecuredByPrince](https://github.com/SecuredByPrince)** – Hands-on labs, automation projects, and security walkthroughs  
+* Host of **Cyber Threat Briefs** – Simplifying cybersecurity concepts, publishing technical walkthroughs, and sharing actionable insights for students and early-career professionals  
+
+---
+
+## 📌 Connect With Me
+
+* **LinkedIn:** [linkedin.com/in/prince-richard-o](https://www.linkedin.com/in/prince-richard-o/)  
+* **YouTube:** [SecuredByPrince](https://www.youtube.com/@SecuredByPrince)  
+* **X (Twitter):** [@SecuredByPrince](https://twitter.com/SecuredByPrince)  
+
+---
+
+### 💡 *Explore → Learn → Secure → Share*
