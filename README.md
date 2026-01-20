@@ -1,64 +1,49 @@
 # 👋 Welcome to **SecuredByPrince**
 
-## 🛡️ Cloud & AI-Driven Security, Simplified
+## 🛡️ Identity-First Cloud & AI Security for Startups
 
-Hi! I’m **Prince Richard Osaro**, a **Junior Cybersecurity & AI Researcher (Volunteer) at IACAIP** and an **Aspiring Cloud Security Engineer**.  
+Hi, I’m **Prince Richard Osaro** — an **early-career Cloud Security Engineer** focused on helping **startups and growing teams design, deploy, and secure Azure cloud environments** using **identity-first security, practical IAM, and lightweight governance controls**.
 
-I focus on **administering and securing Azure & Microsoft 365 environments**, building **cloud-native detection workflows**, and exploring **AI security and responsible AI practices**. My mission is to make cloud environments **functional, resilient, and secure by design**, while sharing knowledge and practical insights with the cybersecurity community.
-
----
-
-## 🔥 What I Do
-
-* Cloud Security Administration & Hardening (Azure & Microsoft 365)  
-* Identity, Endpoint, Network & Data Security  
-* Threat Detection Engineering & SOC Operations  
-* AI Security Research & Adversarial Threat Awareness  
-* Security Automation with Python & PowerShell  
-* Enterprise Lab Design & Hands-on Security Projects  
+Many teams only discover security gaps during **audits, investor due diligence, or after incidents**. My focus is on **early risk identification and practical security controls**, not paperwork-heavy compliance.
 
 ---
 
-## 🚀 Featured Projects
+## 🔍 What I Work On (Hands-On)
 
-* **Cloud Security Use Cases** – Microsoft Sentinel & Azure Monitor detection rules with SOC-style monitoring
-  
-*More projects coming soon… stay tuned for new labs, cloud monitoring tools, and AI-driven automation.*
-
----
-
-## 🧠 Skills & Tools
-
-* **Cloud Security & Administration:** Azure, Microsoft 365, Entra ID, Defender XDR, Azure Monitor, Sentinel  
-* **Programming & Automation:** Python, PowerShell, KQL  
-* **SIEM & Monitoring:** Splunk, Sysmon, Wazuh  
-* **Pentesting & Vulnerability Assessment:** OWASP ZAP, Burp Suite, Nmap  
-* **AI & Security Research:** Secure AI deployments, adversarial threat awareness, responsible AI  
+* Azure & Microsoft 365 security gap reviews
+* Identity & access risk reduction (Entra ID, MFA, RBAC)
+* Cloud logging, monitoring, and security visibility
+* Mapping Azure controls to **ISO/IEC 27001 intent**
+* Laying early **AI governance foundations aligned with ISO/IEC 42001**
 
 ---
 
-## 📚 Currently Learning
+## 🧠 My Approach
 
-* Microsoft Security Certifications: SC-200 → SC-300 → SC-100  
-* Azure Administrator (AZ-104) & Security Engineer (AZ-500)  
-* Cloud Security Automation & DevSecOps Foundations  
-* AI Security, Adversarial Threat Modeling, & Secure Cloud AI Deployments  
+I take a **risk-first, startup-friendly approach** to cloud security.
+I’m open to **mentorship, collaboration, and learning opportunities**, while delivering **real, practical value** by helping teams improve their security posture **without the cost of a full-time security hire**.
 
 ---
 
-## 🎓 Community & Learning Initiatives
+## 🚀 What I’m Building
 
-* Creator of **[SecuredByPrince](https://github.com/SecuredByPrince)** – Hands-on labs, automation projects, and security walkthroughs  
-* Host of **Cyber Threat Briefs** – Simplifying cybersecurity concepts, publishing technical walkthroughs, and sharing actionable insights for students and early-career professionals  
+I’m currently developing **hands-on projects** around:
 
----
+* Cloud IAM hygiene
+* Secure Azure landing zones
+* Logging and monitoring baselines
+* ISO/IEC 27001 & ISO/IEC 42001–aligned starter controls
 
-## 📌 Connect With Me
-
-* **LinkedIn:** [linkedin.com/in/prince-richard-o](https://www.linkedin.com/in/prince-richard-o/)  
-* **YouTube:** [SecuredByPrince](https://www.youtube.com/@SecuredByPrince)  
-* **X (Twitter):** [@SecuredByPrince](https://twitter.com/SecuredByPrince)  
+These projects are designed to help founders and small teams implement **secure, audit-ready, and operationally reliable cloud environments from day one**.
 
 ---
 
-### 💡 *Explore → Learn → Secure → Share*
+## 📌 Connect & Collaborate
+
+* **LinkedIn:** [https://www.linkedin.com/in/prince-richard-o/](https://www.linkedin.com/in/prince-richard-o/)
+* **GitHub:** [https://github.com/SecuredByPrince](https://github.com/SecuredByPrince)
+* **Email:** [securedbyprince@gmail.com](mailto:securedbyprince@gmail.com)
+
+---
+
+### 💡 *Build Securely • Reduce Risk Early • Scale with Confidence*
