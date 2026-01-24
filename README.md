@@ -2,7 +2,7 @@
 
 ## 🛡️ Identity-First Cloud & AI Security for Startups
 
-Hi, I’m **Prince Richard Osaro** — a **Cloud Security Engineer (Early Career)** focused on helping **startups and growing teams secure Azure and Microsoft 365** using an **identity-first (Zero Trust) approach**, practical IAM controls, and lightweight governance foundations.
+Hi, I’m **Prince Richard Osaro** — a **Cloud Security Engineer (Early Career)** focused on helping **startups and growing teams design, deploy, and secure Azure and Microsoft 365 environments** using an **identity-first (Zero Trust) approach**, practical IAM controls, and lightweight governance foundations.
 
 Many teams only discover security gaps during **audits, investor due diligence, or after incidents**. I help teams **reduce risk early** by implementing **real security controls that improve security posture** — not paperwork-heavy compliance.
 
@@ -13,7 +13,7 @@ Many teams only discover security gaps during **audits, investor due diligence, 
 - **Azure & Microsoft 365 security gap reviews** (hardening + misconfigurations)
 - **Identity & access risk reduction** (Entra ID, MFA, RBAC, least privilege)
 - **Security visibility** (logging, monitoring, alerting baselines)
-- Mapping cloud security controls to **ISO/IEC 27001 intent**
+- Mapping cloud controls to **ISO/IEC 27001 intent**
 - Supporting early **AI governance foundations aligned with ISO/IEC 42001**
 
 ---
@@ -30,16 +30,46 @@ I’m open to **mentorship, collaboration, and learning opportunities**, while d
 
 ---
 
-## 🚀 What I’m Building
+## ⭐ Featured Projects
 
-I’m currently developing hands-on security projects around:
+### 🔐 Identity-First Secure Azure Landing Zone *(In Progress)*
 
-- **Identity-first secure Azure landing zones**
-- **IAM hygiene & access governance starter controls**
-- **Logging & monitoring baselines**
-- **ISO/IEC 27001 & ISO/IEC 42001–aligned security foundations**
+**Outcome:** Helps startups deploy a **secure, scalable Azure foundation** with strong identity controls, least-privilege access, and audit-ready visibility from day one — **without heavy compliance overhead**.
 
-These projects are designed to help founders and small teams build **secure, scalable, and audit-ready Azure environments from day one**.
+**Key Highlights**
+- Secure subscription & resource hierarchy for scalable growth
+- Microsoft Entra ID baseline (MFA, least privilege RBAC, privileged access hygiene)
+- Governance guardrails using Azure Policy and secure defaults
+- Logging & monitoring baseline for security visibility and audit readiness
+
+**Tech / Tools**
+- Microsoft Azure
+- Microsoft Entra ID (Azure AD)
+- RBAC, MFA, Conditional Access
+- Azure Policy, Azure Monitor, Log Analytics
+- Defender for Cloud
+
+➡️ Repo: https://github.com/SecuredByPrince/identity-first-azure-landing-zone
+
+---
+
+### 🧾 AIGovRisk — AI Governance, Risk & Compliance *(In Progress)*
+
+**Outcome:** Helps startups and growing teams identify, document, and manage AI risks early, using lightweight governance controls aligned with **ISO/IEC 42001** — **without slowing innovation**.
+
+**Key Highlights**
+- AI risk identification, assessment, and tracking workflows
+- Startup-friendly AI governance foundations (policies, roles, accountability)
+- Practical risk register templates and audit-ready documentation
+- Implementation guides to move from policy → practice
+
+**Tech / Tools**
+- ISO/IEC 42001 governance concepts
+- AI risk register & control templates
+- Governance documentation frameworks
+- Practical implementation guides
+
+➡️ Repo: https://github.com/SecuredByPrince/AIGovRisk
 
 ---
 
