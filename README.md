@@ -1,84 +1,90 @@
-# 👋 Welcome to **SecuredByPrince**
+# Welcome to SecuredByPrince
 
-## 🛡️ Identity-First Cloud & AI Security for Startups
+## Identity First Cloud and AI Security
 
-Hi, I’m **Prince Richard Osaro** — a **Cloud Security Engineer (Early Career)** focused on helping **startups and growing teams design, deploy, and secure Azure and Microsoft 365 environments** using an **identity-first (Zero Trust) approach**, practical IAM controls, and lightweight governance foundations.
+Hi, I’m **Prince Richard Osaro**, an **Associate Cloud Security Engineer** focused on securing cloud environments through identity first security and practical governance aligned controls.
 
-Many teams only discover security gaps during **audits, investor due diligence, or after incidents**. I help teams **reduce risk early** by implementing **real security controls that improve security posture** — not paperwork-heavy compliance.
+My work centres on helping startups and growing teams design, deploy, and secure Azure and Microsoft 365 environments using strong identity controls, Zero Trust principles, and lightweight governance foundations.
 
----
-
-## 🔍 What I Work On (Hands-On)
-
-- **Azure & Microsoft 365 security gap reviews** (hardening + misconfigurations)
-- **Identity & access risk reduction** (Entra ID, MFA, RBAC, least privilege)
-- **Security visibility** (logging, monitoring, alerting baselines)
-- Mapping cloud controls to **ISO/IEC 27001 intent**
-- Supporting early **AI governance foundations aligned with ISO/IEC 42001**
+Many teams only discover security gaps during audits, investor due diligence, or after incidents. My focus is helping teams reduce risk early by implementing practical security controls that improve real security posture.
 
 ---
 
-## 🧠 My Approach
+## What I Work On
 
-I follow a **risk-first, startup-friendly security mindset**:
+I work hands on across areas such as
 
-✅ **Secure identity first** (access control & governance)  
-✅ **Improve visibility early** (logging + monitoring)  
-✅ **Build audit-ready controls lightly** (practical, scalable foundations)
-
-I’m open to **mentorship, collaboration, and learning opportunities**, while delivering **real value** by helping teams strengthen security **without the cost of a full-time security hire**.
-
----
-
-## ⭐ Featured Projects
-
-### 🔐 Identity-First Secure Azure Landing Zone *(In Progress)*
-
-**Outcome:** Helps startups deploy a **secure, scalable Azure foundation** with strong identity controls, least-privilege access, and audit-ready visibility from day one — **without heavy compliance overhead**.
-
-**Key Highlights**
-- Secure subscription & resource hierarchy for scalable growth
-- Microsoft Entra ID baseline (MFA, least privilege RBAC, privileged access hygiene)
-- Governance guardrails using Azure Policy and secure defaults
-- Logging & monitoring baseline for security visibility and audit readiness
-
-**Tech / Tools**
-- Microsoft Azure
-- Microsoft Entra ID (Azure AD)
-- RBAC, MFA, Conditional Access
-- Azure Policy, Azure Monitor, Log Analytics
-- Defender for Cloud
-
-➡️ Repo: https://github.com/SecuredByPrince/identity-first-azure-landing-zone
+• Microsoft Entra ID identity and access security  
+• Azure cloud security foundations and governance  
+• Identity lifecycle and least privilege access models  
+• Logging, monitoring, and security visibility  
+• Cloud security controls aligned with ISO 27001 governance intent  
+• Early AI governance foundations aligned with ISO 42001 concepts  
 
 ---
 
-### 🧾 AIGovRisk — AI Governance, Risk & Compliance *(In Progress)*
+## My Approach
 
-**Outcome:** Helps startups and growing teams identify, document, and manage AI risks early, using lightweight governance controls aligned with **ISO/IEC 42001** — **without slowing innovation**.
+My approach is simple and practical.
 
-**Key Highlights**
-- AI risk identification, assessment, and tracking workflows
-- Startup-friendly AI governance foundations (policies, roles, accountability)
-- Practical risk register templates and audit-ready documentation
-- Implementation guides to move from policy → practice
+Secure identity first.  
+Improve visibility early through logging and monitoring.  
+Implement governance aligned controls that are scalable and practical.
 
-**Tech / Tools**
-- ISO/IEC 42001 governance concepts
-- AI risk register & control templates
-- Governance documentation frameworks
-- Practical implementation guides
-
-➡️ Repo: https://github.com/SecuredByPrince/AIGovRisk
+I enjoy helping teams build secure cloud foundations without slowing product development or requiring a full time security team too early.
 
 ---
 
-## 📌 Connect & Collaborate
+# Featured Projects
 
-- **LinkedIn:** https://www.linkedin.com/in/prince-richard-o/
-- **GitHub:** https://github.com/SecuredByPrince
-- **Email:** securedbyprince@gmail.com
+## Identity First Secure Azure Landing Zone (In Progress)
+
+This project focuses on building a secure Azure foundation using identity first security principles.
+
+It provides practical guidance for startups and growing teams to deploy Azure environments with strong access controls, governance guardrails, and security visibility from the beginning.
+
+Key areas include
+
+• Secure subscription and resource hierarchy for scalable growth  
+• Microsoft Entra ID identity security baseline including MFA and least privilege RBAC  
+• Governance guardrails using Azure Policy and secure defaults  
+• Logging and monitoring baselines using Azure Monitor and Log Analytics  
+• Security posture visibility through Microsoft Defender for Cloud  
+
+Repository  
+https://github.com/SecuredByPrince/identity-first-azure-landing-zone
 
 ---
 
-### 💡 *Build Securely • Reduce Risk Early • Scale with Confidence*
+## AIGovRisk AI Governance Risk and Compliance (In Progress)
+
+AIGovRisk explores practical ways organisations can identify and manage AI risks early while implementing governance controls aligned with ISO 42001.
+
+The goal is to help teams adopt AI responsibly while maintaining strong security and governance foundations.
+
+Key areas include
+
+• AI risk identification and assessment workflows  
+• Practical AI risk register templates  
+• Governance documentation frameworks  
+• Implementation guides that translate governance into practice  
+
+Repository  
+https://github.com/SecuredByPrince/AIGovRisk
+
+---
+
+## Connect and Collaborate
+
+LinkedIn  
+https://www.linkedin.com/in/prince-richard-o/
+
+GitHub  
+https://github.com/SecuredByPrince
+
+Email  
+securedbyprince@gmail.com
+
+---
+
+Helping organisations build secure cloud foundations through identity first security.
