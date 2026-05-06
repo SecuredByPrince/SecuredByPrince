@@ -1,90 +1,56 @@
-# Welcome to SecuredByPrince
+# Prince Richard Osaro
 
-## Identity First Cloud and AI Security
-
-Hi, I’m **Prince Richard Osaro**, an **Associate Cloud Security Engineer** focused on securing cloud environments through identity first security and practical governance aligned controls.
-
-My work centres on helping startups and growing teams design, deploy, and secure Azure and Microsoft 365 environments using strong identity controls, Zero Trust principles, and lightweight governance foundations.
-
-Many teams only discover security gaps during audits, investor due diligence, or after incidents. My focus is helping teams reduce risk early by implementing practical security controls that improve real security posture.
+**Associate Cloud and AI Security Engineer | Azure Security | Microsoft Entra ID | Zero Trust | Securing AI Applications**
 
 ---
 
-## What I Work On
+## 🛡️ About Me
 
-I work hands on across areas such as
+I am an Associate Cloud and AI Security Engineer focused on building and securing cloud and AI systems.
 
-• Microsoft Entra ID identity and access security  
-• Azure cloud security foundations and governance  
-• Identity lifecycle and least privilege access models  
-• Logging, monitoring, and security visibility  
-• Cloud security controls aligned with ISO 27001 governance intent  
-• Early AI governance foundations aligned with ISO 42001 concepts  
+My work centres on securing Azure environments and identity systems using Microsoft Entra ID, Zero Trust principles, and practical security controls.
 
----
+With a background in SOC operations and threat detection, I approach security from both a prevention and detection perspective, ensuring systems are not only configured securely but are also monitored for real world threats.
 
-## My Approach
+I am currently building hands on projects focused on:
 
-My approach is simple and practical.
-
-Secure identity first.  
-Improve visibility early through logging and monitoring.  
-Implement governance aligned controls that are scalable and practical.
-
-I enjoy helping teams build secure cloud foundations without slowing product development or requiring a full time security team too early.
+- Securing AI applications against risks such as prompt injection and data leakage  
+- Implementing Zero Trust security in Azure environments  
+- Strengthening identity security through access control and governance  
+- Building detection use cases and monitoring pipelines  
 
 ---
 
-# Featured Projects
+## 🏅 Certifications & Tools
 
-## Identity First Secure Azure Landing Zone (In Progress)
-
-This project focuses on building a secure Azure foundation using identity first security principles.
-
-It provides practical guidance for startups and growing teams to deploy Azure environments with strong access controls, governance guardrails, and security visibility from the beginning.
-
-Key areas include
-
-• Secure subscription and resource hierarchy for scalable growth  
-• Microsoft Entra ID identity security baseline including MFA and least privilege RBAC  
-• Governance guardrails using Azure Policy and secure defaults  
-• Logging and monitoring baselines using Azure Monitor and Log Analytics  
-• Security posture visibility through Microsoft Defender for Cloud  
-
-Repository  
-https://github.com/SecuredByPrince/identity-first-azure-landing-zone
+![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AZ-500](https://img.shields.io/badge/AZ--500-Azure%20Security%20Engineer-blue?style=for-the-badge)
+![AZ-104](https://img.shields.io/badge/AZ--104-Azure%20Administrator-0078D4?style=for-the-badge)
+![SC-300](https://img.shields.io/badge/SC--300-Identity%20Administrator-purple?style=for-the-badge)
+![ISC2 CC](https://img.shields.io/badge/ISC2-CC%20Certified%20in%20Cybersecurity-green?style=for-the-badge)
+![Entra ID](https://img.shields.io/badge/Microsoft%20Entra%20ID-Identity-blue?style=for-the-badge)
+![Zero Trust](https://img.shields.io/badge/Zero%20Trust-Security-critical?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-Programming-yellow?style=for-the-badge&logo=python)
+![SIEM](https://img.shields.io/badge/SIEM-Splunk%20%7C%20Wazuh-orange?style=for-the-badge)
 
 ---
 
-## AIGovRisk AI Governance Risk and Compliance (In Progress)
+## 🔧 Current Focus
 
-AIGovRisk explores practical ways organisations can identify and manage AI risks early while implementing governance controls aligned with ISO 42001.
-
-The goal is to help teams adopt AI responsibly while maintaining strong security and governance foundations.
-
-Key areas include
-
-• AI risk identification and assessment workflows  
-• Practical AI risk register templates  
-• Governance documentation frameworks  
-• Implementation guides that translate governance into practice  
-
-Repository  
-https://github.com/SecuredByPrince/AIGovRisk
+- Cloud Security (Azure)  
+- Identity and Access Management (Microsoft Entra ID)  
+- AI Security (Emerging Focus)  
+- Detection and Monitoring  
 
 ---
 
-## Connect and Collaborate
+## 🤝 Connect and Collaborate
 
-LinkedIn  
+**LinkedIn**  
 https://www.linkedin.com/in/prince-richard-o/
 
-GitHub  
+**GitHub**  
 https://github.com/SecuredByPrince
 
-Email  
+**Email**  
 securedbyprince@gmail.com
-
----
-
-Helping organisations build secure cloud foundations through identity first security.
