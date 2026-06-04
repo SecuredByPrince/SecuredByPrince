@@ -52,9 +52,20 @@ Repository:
 
 Enterprise focused cloud security project demonstrating governance aligned controls, monitoring, workload protection, and operational visibility within Microsoft Azure environments.
 
+Repository:
+
+**https://github.com/SecuredByPrince/Secure-Azure-Cloud-Workloads**
+
+
 ### Secure AI Applications on Azure
 
 Enterprise focused AI security project exploring secure AI adoption, governance, monitoring, and protection against emerging AI related threats.
+
+Repository:
+
+**https://github.com/SecuredByPrince/Secure-AI-Applications-on-Azure**
+
+
 
 Together, these projects form a practical security portfolio focused on securing modern cloud, identity, and AI driven environments.
 
