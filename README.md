@@ -1,123 +1,182 @@
 # Prince Richard Osaro
 
-**Cloud and AI Security Engineer | Securing Cloud, Identity, and AI Driven Environments | Azure • Entra ID • Zero Trust • Multi Cloud Security**
+### Cloud, Identity & AI Security Engineer | Azure Security | Microsoft Entra ID | Zero Trust | Security Architecture
 
 ---
 
 ## About Me
 
-I am a Cloud and AI Security Engineer focused on securing cloud, identity, and AI driven environments through Zero Trust principles, governance aligned controls, and detection driven security practices.
+I am a Cloud, Identity & AI Security Engineer focused on helping organisations securely adopt, operate, and scale modern cloud, identity, and AI-driven technologies through Zero Trust principles, governance-aligned controls, security architecture, and detection-driven security practices.
 
-My primary focus is on Microsoft Azure and Microsoft Entra ID, where I build and implement practical security solutions across identity security, cloud governance, monitoring, threat detection, operational security visibility, and security architecture.
+My work centres on reducing security risk, strengthening identity protection, improving cloud security posture, enhancing operational visibility, and enabling responsible AI adoption across modern enterprise environments.
 
-I specialise in implementing controls such as Conditional Access, Multi Factor Authentication (MFA), Role Based Access Control (RBAC), Identity Governance, Privileged Identity Management (PIM), cloud security posture management, logging, monitoring, and Zero Trust aligned security architectures.
+My primary expertise lies within Microsoft Azure and Microsoft Entra ID ecosystems, where I design, implement, and document security controls spanning identity security, cloud governance, security monitoring, threat detection, and security operations. I am particularly interested in how identity, governance, and security architecture combine to create resilient, scalable, and business-aligned security outcomes.
 
-In addition to my Microsoft security focus, I continue expanding my understanding of AWS and Google Cloud security models to strengthen multi cloud security, governance, and architecture perspectives across modern enterprise environments.
+Alongside my Microsoft security focus, I continue expanding my expertise across AWS, multi-cloud security, security governance, and cloud architecture to support secure digital transformation across diverse enterprise environments.
 
 ---
 
 ## Enterprise Cloud, Identity & AI Security Portfolio
 
-This portfolio brings together my practical security projects focused on securing modern cloud, identity, and AI driven environments.
+This portfolio showcases practical, enterprise-focused security implementations demonstrating how organisations can secure cloud, identity, and AI-driven environments through modern security architecture, governance, monitoring, detection engineering, and Zero Trust principles.
 
-Portfolio Repository:
+### Portfolio Repository
 
 **https://github.com/SecuredByPrince/enterprise-cloud-identity-ai-security-portfolio**
 
 The portfolio demonstrates practical implementations across:
 
 * Cloud Security Engineering
-* Identity Security
+* Identity Security Engineering
 * Zero Trust Architecture
-* AI Security
+* AI Security Engineering
 * Security Architecture
 * Cloud Governance
 * Detection Engineering
 * Security Monitoring & Threat Detection
-* Multi Cloud Security
+* Multi-Cloud Security
+* Risk Management & Governance
 
 ---
 
 ## Security Portfolio Projects
 
-### Zero Trust Identity Security using Microsoft Entra ID
+### 🔐 Zero Trust Identity Security using Microsoft Entra ID
 
-Enterprise focused implementation demonstrating identity first security through Conditional Access, MFA, PIM, Identity Governance, Identity Protection, and detection engineering.
+Enterprise-focused implementation demonstrating identity-first security through:
+
+* Conditional Access
+* Multi-Factor Authentication (MFA)
+* Privileged Identity Management (PIM)
+* Identity Governance
+* Identity Protection
+* Azure RBAC
+* Access Reviews
+* Lifecycle Workflows
+* Security Monitoring & Detection Engineering
 
 Repository:
 
 **https://github.com/SecuredByPrince/zero-trust-identity-security-entra-id**
 
-### Secure Azure Cloud Workloads
+---
 
-Enterprise focused cloud security project demonstrating governance aligned controls, monitoring, workload protection, and operational visibility within Microsoft Azure environments.
+### ☁️ Secure Azure Cloud Workloads
+
+Enterprise-focused cloud security project demonstrating:
+
+* Microsoft Defender for Cloud
+* Azure Policy
+* Azure RBAC
+* Azure Monitor
+* Log Analytics
+* Cloud Security Posture Management (CSPM)
+* Secure Score Optimisation
+* Governance & Compliance Controls
+* Security Monitoring & Operational Visibility
 
 Repository:
 
 **https://github.com/SecuredByPrince/Secure-Azure-Cloud-Workloads**
 
+---
 
-### Secure AI Applications on Azure
+### 🤖 Secure AI Applications on Azure
 
-Enterprise focused AI security project exploring secure AI adoption, governance, monitoring, and protection against emerging AI related threats.
+Enterprise-focused AI security project demonstrating:
+
+* Azure AI Foundry
+* Azure OpenAI Service
+* Prompt Shields
+* Azure AI Content Safety
+* Responsible AI
+* AI Governance
+* AI Threat Modelling
+* AI Risk Management
+* AI Security Monitoring
 
 Repository:
 
 **https://github.com/SecuredByPrince/Secure-AI-Applications-on-Azure**
 
+---
 
+### 🌐 Multi-Cloud Security (Azure & AWS)
 
-Together, these projects form a practical security portfolio focused on securing modern cloud, identity, and AI driven environments.
+Practical implementation demonstrating foundational multi-cloud security controls including:
 
-These are living projects that will continue to evolve as technologies, security practices, and real world threats change, and as my understanding of cloud, identity, and AI security continues to grow through ongoing research, learning, and practical implementation.
+* Identity & Access Management (IAM)
+* Logging & Monitoring
+* Security Governance
+* AWS Security Hub
+* AWS GuardDuty
+* AWS CloudTrail
+* AWS Config
+* Azure Security Controls
+
+Repository:
+
+**Coming Soon**
 
 ---
 
-## Current Focus Areas
+## Current Areas of Focus
 
 * Cloud Security Engineering
-* Identity & Access Management
+* Identity & Access Management (IAM)
+* Microsoft Entra ID Security
 * Zero Trust Architecture
-* AI Security
+* AI Security Engineering
 * Security Architecture
 * Cloud Governance
 * Detection Engineering
-* Security Monitoring & Threat Detection
-* Multi Cloud Security
+* Security Operations
+* Threat Detection & Threat Hunting
+* Multi-Cloud Security
+* Security Monitoring & Visibility
 
 ---
 
-## Certifications & Technologies
+## Certifications
 
-![Azure](https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
-![AZ-104](https://img.shields.io/badge/AZ--104-Azure%20Administrator-0078D4?style=for-the-badge)
-![AZ-500](https://img.shields.io/badge/AZ--500-Azure%20Security%20Engineer-blue?style=for-the-badge)
-![SC-300](https://img.shields.io/badge/SC--300-Identity%20Administrator-purple?style=for-the-badge)
-![SC-100](https://img.shields.io/badge/SC--100-Cybersecurity%20Architect%20Expert-red?style=for-the-badge)
-![ISC2 CC](https://img.shields.io/badge/ISC2-CC%20Certified%20in%20Cybersecurity-green?style=for-the-badge)
-![Microsoft Entra ID](https://img.shields.io/badge/Microsoft%20Entra%20ID-Identity-blue?style=for-the-badge)
-![Zero Trust](https://img.shields.io/badge/Zero%20Trust-Security-critical?style=for-the-badge)
-![AWS](https://img.shields.io/badge/AWS-Cloud%20Security-orange?style=for-the-badge\&logo=amazonaws)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-Security-4285F4?style=for-the-badge\&logo=googlecloud)
-![Python](https://img.shields.io/badge/Python-Automation-yellow?style=for-the-badge\&logo=python)
-![SIEM](https://img.shields.io/badge/SIEM-Splunk%20%7C%20Wazuh-orange?style=for-the-badge)
+### Microsoft Certifications
 
-### Certifications
+* Microsoft Certified: Cybersecurity Architect Expert (SC-100)
+* Microsoft Certified: Azure Security Engineer Associate (AZ-500)
+* Microsoft Certified: Identity and Access Administrator Associate (SC-300)
+* Microsoft Certified: Azure Administrator Associate (AZ-104)
 
-* Microsoft Certified: Azure Administrator Associate (AZ 104)
-* Microsoft Certified: Azure Security Engineer Associate (AZ 500)
-* Microsoft Certified: Identity and Access Administrator Associate (SC 300)
-* Microsoft Certified: Cybersecurity Architect Expert (SC 100)
+### Security Certifications
+
 * ISC2 Certified in Cybersecurity (CC)
 
-### Framework Knowledge
+---
 
+## Security Frameworks & Governance
+
+Working knowledge of:
+
+* Zero Trust Architecture
+* NIST Cybersecurity Framework (CSF)
+* NIST AI Risk Management Framework (AI RMF)
+* MITRE ATT&CK
+* MITRE ATLAS
 * ISO/IEC 27001
+* ISO/IEC 27701
 * ISO/IEC 42001
+* Azure Security Benchmark
+
+These frameworks help inform my approach to designing security controls that are not only technically effective, but also aligned with governance, risk management, privacy, and responsible technology adoption objectives.
 
 ---
 
-## Connect and Collaborate
+## Professional Mission
+
+My long-term goal is to help organisations securely navigate digital transformation by combining Cloud Security, Identity Security, AI Security, Security Architecture, and Governance to reduce risk, strengthen resilience, and enable secure innovation at scale.
+
+---
+
+## Connect & Collaborate
 
 ### LinkedIn
 
